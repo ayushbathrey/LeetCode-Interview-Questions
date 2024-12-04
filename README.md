@@ -1,23 +1,22 @@
 ```markdown
 # 🚀 LeetCode Interview Questions
 
-Welcome to my GitHub repository where I solve **LeetCode problems** to prepare for technical interviews! This repository is organized to help anyone improve their problem-solving skills, understand core algorithms, and become proficient in coding interviews. 💻
+Welcome to my GitHub repository where I solve LeetCode problems to prepare for technical interviews! This repository is organized to help anyone improve their problem-solving skills, understand core algorithms, and become proficient in coding interviews. 💻
 
 ---
 
 ## 🌟 Features
 
-- **Solutions to LeetCode problems**: Covers a wide range of topics from **arrays** to **dynamic programming**.
-- **Well-documented code**: Each solution includes explanations, time complexity, and space complexity analysis.
-- **Multiple programming languages**: Solutions provided in Python, Java, or any language suited for the problem.
-- **Categorized Problems**: Easily find problems based on difficulty or topic.
-- **Best Practices**: Clean code, optimal solutions, and helpful comments.
+- Solutions to LeetCode problems: Covers a wide range of topics from arrays to dynamic programming.
+- Well-documented code: Each solution includes explanations, time complexity, and space complexity analysis.
+- Multiple programming languages: Solutions provided in Python, Java, or any language suited for the problem.
+- Categorized Problems: Easily find problems based on difficulty or topic.
+- Best Practices: Clean code, optimal solutions, and helpful comments.
 
 ---
 
 ## 📁 Repository Structure
 
-```plaintext
 📂 LeetCode-Interview-Questions
 │
 ├── 📂 Easy
@@ -111,9 +110,9 @@ Contributions are welcome! Here's how you can help:
 
 | Difficulty | Solved | Total |
 |------------|--------|-------|
-| Easy       | 20     | 50    |
-| Medium     | 15     | 100   |
-| Hard       | 5      | 50    |
+| Easy       | 1      | 1    |
+| Medium     | 0      | 0    |
+| Hard       | 0      | 0    |
 
 *Updated Weekly*
 
