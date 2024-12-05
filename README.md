@@ -120,9 +120,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 🤝 Let's Connect
 
-- **GitHub**: [your-username](https://github.com/ayushbathrey)  
-- **LinkedIn**: [your-linkedin](https://linkedin.com/in/ayushbathrey)  
-- **Twitter**: [your-twitter](https://twitter.com/ayushbathrey)  
+- **GitHub**: [ayushbathrey](https://github.com/ayushbathrey)  
+- **LinkedIn**: [ayushbathrey](https://linkedin.com/in/ayushbathrey)  
+- **Twitter**: [ayushbathrey](https://twitter.com/ayushbathrey)  
 
 ---
 ```
